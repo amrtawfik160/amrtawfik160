@@ -8,8 +8,5 @@ Software engineer building production AI agents and full-stack products. Head of
 - **[Replyfold](https://github.com/Cyndra-AI/replyfold)**: open-source AI support inbox where people approve every reply
 - **[Hanoon](https://github.com/amrtawfik160/hanoon)**: Telegram agent with durable memory and monitors for running coding agents from a phone
 
-### Stack
-TypeScript · React · Next.js · Node.js · React Native · Python · Convex · Stripe
-
 ### Find me
 [LinkedIn](https://www.linkedin.com/in/amrtawfik160) · [X](https://x.com/amrtawfik160) · amrtawfik160@gmail.com
